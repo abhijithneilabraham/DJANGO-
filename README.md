@@ -1,0 +1,2 @@
+# DJANGO-
+Trying Django now
